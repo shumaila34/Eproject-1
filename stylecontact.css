@@ -1,0 +1,77 @@
+*{
+    list-style-type: none;
+}
+
+
+body{
+    padding-top: 56px;
+    }
+
+.bg-primary{
+        background-color: rgb(36, 136, 175) !important;
+}
+
+.navbar-brand{
+    font-weight: 800;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+    color: #ffffff;
+}
+.nav-item{
+    color: #fff;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+
+.con-head{
+    font-size: 40px;
+    color: rgb(36, 136, 175) ;
+}
+
+.contact{
+    margin-top: 200px;
+    margin-bottom: 200px;
+}
+
+footer{
+    font-family: sans-serif;
+}
+
+.head0{
+
+font-size: 20px;
+font-weight: 600;
+
+}
+
+.content{
+font-size: 15px;
+}
+
+pre{
+    font-size: 15px;
+}
+
+.content li a{
+    color: #fff;
+}
+
+.content li:hover{
+    margin-left: 3px;
+    opacity: 1;
+}
+
+.social-link{
+    text-align: center;
+    margin-top: 30px;
+}
+
+.social-link a i{
+    color: #fff;
+    font-size: 20px;
+}
+
+.social-link a i:hover{
+    color: rgb(36, 136, 175);
+}
